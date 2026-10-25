@@ -7,7 +7,7 @@ schema design, caching, queues, and making sure the same item can't be sold twic
 
 ### What I've built
 
-**[Thrift Vault](https://github.com/vidhi-vats-11/thrift-vault)** — a production e-commerce platform
+**[Thrift Vault](https://github.com/vidhi-vats-11/thrift-vault-backend)** — a production e-commerce platform
 for one-of-one secondhand streetwear · **[live demo](https://thriftvaultstore.vercel.app)**
 A Node.js + Express API organised into 9 domain modules over a 14-table PostgreSQL schema in Prisma,
 with JWT access/refresh auth, Zod validation and Redis-backed rate limiting. Since every item is
